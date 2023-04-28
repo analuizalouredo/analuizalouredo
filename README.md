@@ -15,7 +15,6 @@ Olá, eu sou Ana! 👱‍♀️
 - Para falar comigo:
     - 
     - **Email**: ana.costa.8787@ga.ita.br
-    - **Linkedin**: https://www.linkedin.com/in/ana-luiza-louredo-6a595a22a/
     - **Telefone**: (63) 98468-8115
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=analuizalouredo)](https://github.com/anuraghazra/github-readme-stats)
